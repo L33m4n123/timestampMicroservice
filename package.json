@@ -1,0 +1,24 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "A timestamp server for fcc challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L33m4n123/timestampMicroservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L33m4n123/timestampMicroservice/issues"
+  },
+  "homepage": "https://github.com/L33m4n123/timestampMicroservice#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "moment": "^2.18.1"
+  }
+}
